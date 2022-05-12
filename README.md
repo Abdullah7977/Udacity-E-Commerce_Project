@@ -1,5 +1,6 @@
 # Udacity-E-Commerce_Project
-you can run project with tests with commands
+# Running
+You can run project with tests with commands
 1. "mvn clean test" 
 2. Test Runner inside project
 
